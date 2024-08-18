@@ -1,0 +1,24 @@
+.main-container {
+	height: fit-content;
+}
+
+
+table {
+	height: 100%;
+	width: 100%;
+}
+td, th {
+	height: 4vh;
+	outline: 2px solid lightgrey;
+}
+th {
+}
+td {
+	text-align: center;
+}
+#presente {
+	color: green;
+}
+#ausente {
+	color: red;
+}
